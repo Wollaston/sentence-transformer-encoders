@@ -1,0 +1,6 @@
+output/
+final/
+data/
+models/
+controller/
+compose.yaml
